@@ -1,0 +1,10 @@
+dhruv 500
+dhoni 1000
+virat 200
+rohit 300
+sachin 500
+bumrah 200
+gautam 10
+jayveer 1
+dhairya 2000
+harsh 69
